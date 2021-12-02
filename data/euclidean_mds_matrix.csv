@@ -1,0 +1,560 @@
+Name,Dim 1,Dim 2,Tier,Generation
+Venusaur,-1.84E+01,1.01E+01,OU,1
+Mega Venusaur,-1.31E+02,-1.33E+01,RU,1
+Charizard,-2.96E+01,2.37E+01,OU,1
+Mega Charizard X,-1.42E+02,1.15E-01,OU,1
+Mega Charizard Y,-1.45E+02,4.26E+01,NU,1
+Blastoise,-2.29E+01,-6.51E+00,UU,1
+Mega Blastoise,-1.38E+02,-6.44E+00,RU,1
+Butterfree,1.31E+02,3.72E+01,PU,1
+Beedrill,1.35E+02,1.19E+01,UU,1
+Mega Beedrill,3.27E+01,-1.20E+02,PU,1
+Pidgeot,3.90E+01,1.89E+01,PU,1
+Mega Pidgeot,-8.10E+01,4.92E+01,PU,1
+Raticate,1.14E+02,2.07E+01,PU,1
+Fearow,8.15E+01,1.94E+01,PU,1
+Arbok,7.21E+01,3.36E+00,PU,1
+Raichu,2.80E+01,4.10E+01,PU,1
+Sandslash,7.42E+01,-4.11E+01,NU,1
+Nidoqueen,6.34E+00,-6.10E+00,UU,1
+Nidoking,5.08E+00,4.06E+00,UU,1
+Clefairy,2.08E+02,3.96E+00,PU,1
+Clefable,3.03E+01,7.92E+00,OU,1
+Ninetales,5.61E+00,2.18E+01,PU,1
+Wigglytuff,9.63E+01,7.38E+01,PU,1
+Golbat,6.51E+01,1.25E+01,RU,1
+Vileplume,1.79E+01,-8.75E-01,NU,1
+Parasect,1.20E+02,-3.59E+01,PU,1
+Venomoth,6.89E+01,3.13E+01,UU,1
+Dugtrio,1.05E+02,5.61E+01,OU,1
+Persian,8.48E+01,4.02E+01,PU,1
+Golduck,9.98E+00,1.39E+01,PU,1
+Primeape,6.84E+01,1.20E+01,NU,1
+Arcanine,-5.18E+01,6.27E+00,UU,1
+Poliwrath,8.90E-01,-1.57E+01,NU,1
+Kadabra,1.26E+02,8.72E+01,PU,1
+Alakazam,4.53E+00,9.07E+01,OU,1
+Mega Alakazam,-1.11E+02,1.12E+02,OU,1
+Machamp,2.38E+00,-3.78E+01,RU,1
+Victreebel,1.88E+01,9.84E+00,UU,1
+Tentacruel,-6.58E+00,3.86E+01,UU,1
+Golem,1.69E+01,-7.20E+01,UU,1
+Rapidash,1.11E+01,2.08E+01,PU,1
+Slowbro,2.35E+01,-5.34E+01,PU,1
+Mega Slowbro,-9.41E+01,-1.07E+02,OU,1
+Magneton,5.23E+01,4.76E+01,OU,1
+Farfetch'd,1.50E+02,4.66E-01,RU,1
+Dodrio,5.40E+01,2.33E+01,PU,1
+Dewgong,4.37E+01,-1.33E+00,PU,1
+Muk,9.73E+00,-3.03E+01,PU,1
+Cloyster,-1.91E+01,-1.07E+02,UU,1
+Gengar,6.11E+00,6.78E+01,NU,1
+Mega Gengar,-1.11E+02,8.41E+01,Uber,1
+Onix,1.56E+02,-8.65E+01,OU,1
+Hypno,3.44E+01,5.96E-01,PU,1
+Kingler,4.72E+01,-6.52E+01,PU,1
+Electrode,2.87E+01,8.42E+01,PU,1
+Exeggutor,-3.27E+01,1.76E+00,PU,1
+Marowak,9.93E+01,-4.37E+01,PU,1
+Hitmonlee,8.01E+01,-4.83E+01,RU,1
+Hitmonchan,7.41E+01,-4.27E+01,NU,1
+Weezing,2.30E+01,-3.31E+01,NU,1
+Rhydon,4.31E+01,7.02E+01,NU,1
+Chansey,9.37E+01,2.10E+02,OU,1
+Tangela,9.87E+01,-3.61E+01,PU,1
+Kangaskhan,3.25E+01,-1.94E+01,Uber,1
+Mega Kangaskhan,-8.76E+01,-3.71E+01,NU,1
+Seaking,6.97E+01,-1.34E+00,PU,1
+Starmie,-1.37E+01,3.66E+01,OU,1
+Mr. Mime,6.01E+01,7.02E+01,PU,1
+Scyther,1.25E+01,-2.56E+00,NU,1
+Jynx,6.38E+01,7.25E+01,NU,1
+Pinsir,1.00E+01,-3.67E+01,OU,1
+Mega Pinsir,-1.04E+02,-5.91E+01,NU,1
+Tauros,3.31E+01,-2.14E+01,NU,1
+Gyarados,-3.57E+01,-2.93E+01,NU,1
+Mega Gyarados,-1.45E+02,-5.65E+01,UU,1
+Lapras,-3.43E+01,-2.35E+01,PU,1
+Ditto,2.43E+02,8.65E+00,PU,1
+Vaporeon,-2.09E+01,6.08E+01,UU,1
+Jolteon,-1.93E+01,6.75E+01,RU,1
+Flareon,-3.00E+01,-1.63E+01,PU,1
+Omastar,1.40E+01,-5.55E+01,NU,1
+Kabutops,1.71E+01,-2.88E+01,NU,1
+Aerodactyl,-2.29E+00,4.89E+01,UU,1
+Mega Aerodactyl,-1.30E+02,-1.91E+01,RU,1
+Snorlax,-3.79E+01,-9.56E+01,UU,1
+Articuno,-7.85E+01,-7.78E+00,PU,1
+Zapdos,-7.96E+01,2.23E+01,OU,1
+Moltres,-7.98E+01,1.23E+01,UU,1
+Dragonite,-1.01E+02,-1.90E+01,PU,1
+Mewtwo,-1.89E+02,4.48E+01,OU,1
+Mega Mewtwo X,-3.03E+02,1.09E+00,Uber,1
+Mega Mewtwo Y,-3.02E+02,5.67E+01,Uber,1
+Mew,-9.77E+01,-2.25E+00,Uber,1
+Meganium,-1.65E+01,-4.97E+00,OU,2
+Cyndaquil,2.21E+02,2.12E+01,PU,2
+Typhlosion,-2.96E+01,2.36E+01,RU,2
+Feraligatr,-2.15E+01,-1.60E+01,UU,2
+Furret,1.14E+02,1.58E+01,PU,2
+Noctowl,7.24E+01,4.50E+01,PU,2
+Ledian,1.44E+02,4.30E+01,PU,2
+Ariados,1.25E+02,-1.76E+01,PU,2
+Crobat,-2.96E+01,3.34E+01,UU,2
+Lanturn,6.76E+01,4.67E+01,NU,2
+Togetic,1.30E+02,-2.69E+01,RU,2
+Xatu,4.54E+01,3.00E+01,NU,2
+Ampharos,-6.35E+00,7.59E+00,UU,2
+Mega Ampharos,-1.32E+02,2.93E+01,PU,2
+Bellossom,2.08E+01,-1.57E+01,PU,2
+Azumarill,1.11E+02,-1.29E+01,OU,2
+Sudowoodo,1.17E+02,-6.62E+01,PU,2
+Politoed,9.78E+00,8.05E+00,PU,2
+Jumpluff,6.68E+01,4.11E+01,PU,2
+Sunflora,1.07E+02,-8.22E+00,PU,2
+Quagsire,9.48E+01,-2.98E+01,PU,2
+Espeon,-2.34E+01,6.34E+01,UU,2
+Umbreon,-2.05E+01,-5.65E+01,UU,2
+Murkrow,1.20E+02,4.26E+01,PU,2
+Slowking,2.55E+01,-4.31E+01,RU,2
+Misdreavus,8.61E+01,2.97E+01,PU,2
+Unown,1.93E+02,7.62E+00,PU,2
+Wobbuffet,1.45E+02,1.19E+02,PU,2
+Girafarig,6.24E+01,2.19E+01,PU,2
+Forretress,5.72E+01,-7.17E+01,UU,2
+Dunsparce,1.13E+02,-1.02E+01,PU,2
+Gligar,1.01E+02,-2.26E+01,UU,2
+Steelix,8.47E-01,1.27E+02,NU,2
+Mega Steelix,-1.06E+02,-1.58E+02,NU,2
+Snubbull,2.32E+02,-1.38E+01,RU,2
+Granbull,7.36E+01,-3.60E+01,RU,2
+Qwilfish,8.39E+01,-3.89E+00,OU,2
+Scizor,9.40E+00,-4.56E+01,OU,2
+Mega Scizor,-9.99E+01,-7.12E+01,OU,2
+Shuckle,2.55E+01,-2.53E+02,OU,2
+Heracross,1.09E+01,-3.84E+01,UU,2
+Mega Heracross,-1.06E+02,-9.38E+01,RU,2
+Sneasel,1.03E+02,3.82E+01,PU,2
+Ursaring,6.88E+00,-3.09E+01,PU,2
+Magcargo,9.97E+01,-5.70E+01,NU,2
+Corsola,1.18E+02,-3.57E+01,PU,2
+Octillery,3.32E+01,-1.36E+01,PU,2
+Delibird,1.99E+02,2.63E+01,PU,2
+Mantine,3.26E+01,7.36E+01,NU,2
+Skarmory,6.16E+01,-6.74E+01,OU,2
+Houndoom,7.83E+00,3.98E+01,NU,2
+Mega Houndoom,-1.05E+02,3.79E+01,RU,2
+Kingdra,-3.48E+01,-4.67E-01,RU,2
+Donphan,1.03E+01,-6.19E+01,UU,2
+Porygon2,-9.44E+00,1.06E-01,UU,2
+Stantler,5.17E+01,1.65E+01,PU,2
+Smeargle,2.88E+02,3.26E+01,PU,2
+Hitmontop,7.26E+01,-4.78E+01,RU,2
+Miltank,3.55E+01,-3.10E+01,NU,2
+Blissey,-2.16E+01,2.20E+02,UU,2
+Raikou,-7.90E+01,3.24E+01,OU,2
+Entei,-7.93E+01,-3.17E+00,UU,2
+Suicune,-7.81E+01,-1.92E+01,UU,2
+Tyranitar,-1.00E+02,-3.73E+01,OU,2
+Mega Tyranitar,-2.07E+02,-7.20E+01,OU,2
+Lugia,-1.88E+02,-5.28E+01,Uber,2
+Ho-oh,-1.92E+02,-1.38E+01,Uber,2
+Celebi,-9.77E+01,-2.18E+00,UU,2
+Sceptile,-2.51E+01,4.38E+01,UU,3
+Mega Sceptile,-1.40E+02,6.03E+01,RU,3
+Blaziken,-3.01E+01,8.45E+00,PU,3
+Mega Blaziken,-1.46E+02,1.26E+01,Uber,3
+Swampert,-2.90E+01,-2.17E+01,Uber,3
+Mega Swampert,-1.39E+02,-3.98E+01,UU,3
+Mightyena,1.02E+02,-1.90E-01,UU,3
+Linoone,1.07E+02,2.54E+01,PU,3
+Beautifly,1.31E+02,3.34E+01,PU,3
+Dustox,1.44E+02,9.01E-01,PU,3
+Ludicolo,3.37E+01,1.35E+01,PU,3
+Shiftry,3.40E+01,1.74E+01,NU,3
+Swellow,6.88E+01,5.39E+01,NU,3
+Pelipper,8.76E+01,8.71E-01,NU,3
+Gardevoir,-1.68E+01,5.28E+01,PU,3
+Mega Gardevoir,-1.31E+02,6.82E+01,OU,3
+Masquerain,6.44E+01,3.32E+01,UU,3
+Breloom,6.28E+01,-3.14E+01,PU,3
+Slaking,-1.83E+02,-5.57E+01,PU,3
+Ninjask,7.49E+01,9.44E+01,PU,3
+Shedinja,3.04E+02,-2.01E+01,PU,3
+Exploud,2.19E+01,9.58E+00,PU,3
+Hariyama,5.73E+01,8.36E+01,RU,3
+Delcatty,1.26E+02,1.88E+01,NU,3
+Sableye,1.45E+02,-1.02E+01,PU,3
+Mega Sableye,3.68E+01,-8.28E+01,Uber,3
+Mawile,1.46E+02,-2.10E+01,PU,3
+Mega Mawile,3.85E+01,-6.45E+01,Uber,3
+Aron,2.01E+02,-4.10E+01,PU,3
+Lairon,9.64E+01,-7.44E+01,UU,3
+Aggron,-2.13E+01,-1.08E+02,NU,3
+Mega Aggron,-1.30E+02,-1.52E+02,OU,3
+Medicham,1.15E+02,1.08E+01,RU,3
+Mega Medicham,-8.92E-01,8.82E+00,OU,3
+Manectric,3.94E+01,4.70E+01,NU,3
+Mega Manectric,-7.74E+01,6.42E+01,PU,3
+Plusle,1.19E+02,5.05E+01,PU,3
+Minun,1.22E+02,4.67E+01,PU,3
+Volbeat,9.53E+01,4.50E+00,PU,3
+Illumise,9.46E+01,2.38E+01,PU,3
+Roselia,1.26E+02,3.87E+01,PU,3
+Swalot,5.38E+01,-1.28E+01,UU,3
+Sharpedo,6.13E+01,6.13E+01,UU,3
+Mega Sharpedo,-6.71E+01,2.33E+01,PU,3
+Wailord,1.76E+01,1.09E+02,RU,3
+Camerupt,6.07E+01,-1.68E+01,PU,3
+Mega Camerupt,-7.89E+01,5.42E+01,PU,3
+Torkoal,4.91E+01,-8.14E+01,PU,3
+Grumpig,4.93E+01,4.85E+01,PU,3
+Spinda,1.66E+02,7.42E+00,PU,3
+Vibrava,1.88E+02,1.22E+01,RU,3
+Flygon,-1.02E+01,7.80E+00,PU,3
+Cacturne,4.01E+01,2.52E+01,PU,3
+Altaria,2.43E+01,-3.06E-01,PU,3
+Mega Altaria,-8.95E+01,-1.27E+01,NU,3
+Zangoose,6.66E+01,5.69E+00,PU,3
+Seviper,6.09E+01,1.16E+01,PU,3
+Lunatone,6.06E+01,2.92E+01,PU,3
+Solrock,6.10E+01,-1.46E+01,PU,3
+Whiscash,5.44E+01,-5.00E+00,UU,3
+Crawdaunt,5.09E+01,-2.72E+01,NU,3
+Claydol,9.21E+00,-1.93E+01,NU,3
+Cradily,1.67E+01,-2.76E+01,PU,3
+Armaldo,1.45E+01,-4.65E+01,UU,3
+Milotic,-3.97E+01,3.34E+01,PU,3
+Castform,1.01E+02,8.03E+00,NU,3
+Kecleon,8.77E+01,-4.02E+01,RU,3
+Banette,6.55E+01,-4.31E+00,PU,3
+Mega Banette,-6.24E+01,-4.65E+01,PU,3
+Dusclops,7.16E+01,-9.27E+01,PU,3
+Tropius,6.34E+01,-1.56E+01,PU,3
+Chimecho,6.80E+01,1.92E+01,UU,3
+Absol,5.90E+01,-7.36E+00,RU,3
+Mega Absol,-7.48E+01,5.87E+01,RU,3
+Glalie,3.44E+01,5.98E+00,PU,3
+Mega Glalie,-8.20E+01,1.53E+01,PU,3
+Walrein,-2.51E+01,-6.87E+00,PU,3
+Huntail,2.74E+01,-3.05E+01,PU,3
+Gorebyss,2.64E+01,-2.24E+01,PU,3
+Relicanth,3.58E+01,-6.77E+01,PU,3
+Luvdisc,2.05E+02,3.68E+01,Uber,3
+Salamence,-1.05E+02,5.83E+00,PU,3
+Mega Salamence,-2.10E+02,-2.08E+01,PU,3
+Metagross,-1.01E+02,-4.37E+01,OU,3
+Mega Metagross,-2.08E+02,-5.01E+01,UU,3
+Regirock,-7.06E+01,-1.26E+02,NU,3
+Regice,-8.83E+01,-1.15E+02,PU,3
+Registeel,-1.01E+02,4.82E+01,RU,3
+Latias,-1.04E+02,2.55E+01,OU,3
+Mega Latias,-2.15E+02,1.79E+01,OU,3
+Latios,-1.03E+02,3.22E+01,OU,3
+Mega Latios,-2.13E+02,2.68E+01,OU,3
+Kyogre,-1.81E+02,3.29E+01,Uber,3
+Primal Kyogre,-2.93E+02,2.85E+01,Uber,3
+Groudon,-1.75E+02,-4.92E+01,Uber,3
+Primal Groudon,-2.89E+02,-5.00E+01,Uber,3
+Rayquaza,-1.94E+02,1.16E+01,AG,3
+Mega Rayquaza,-3.04E+02,1.20E+01,Uber,3
+Jirachi,-9.77E+01,-2.11E+00,OU,3
+Deoxys Normal Forme,-1.19E+02,1.01E+02,Uber,3
+Deoxys Attack Forme,-1.30E+02,1.52E+02,Uber,3
+Deoxys Defense Forme,-1.04E+02,-1.02E+02,Uber,3
+Deoxys Speed Forme,-1.07E+02,8.94E+01,Uber,3
+Torterra,-1.72E+01,-3.34E+01,NU,4
+Infernape,-3.17E+01,2.41E+01,PU,4
+Empoleon,-2.77E+01,1.30E+00,UU,4
+Staraptor,3.76E+01,-8.48E+00,PU,4
+Bibarel,1.15E+02,4.78E+00,UU,4
+Kricketune,1.43E+02,8.14E+00,BL,4
+Luxray,-1.83E+01,-9.19E+00,PU,4
+Roserade,-1.31E+01,5.10E+01,PU,4
+Rampardos,1.33E+01,-8.65E+01,PU,4
+Bastiodon,2.64E+01,1.21E+02,UU,4
+Wormadam Plant Cloak,1.05E+02,-3.03E+01,PU,4
+Wormadam Sandy Cloak,1.00E+02,-4.30E+01,PU,4
+Wormadam Trash Cloak,1.01E+02,-3.46E+01,PU,4
+Mothim,9.97E+01,2.48E+01,PU,4
+Combee,2.92E+02,2.15E+01,PU,4
+Vespiquen,4.50E+01,-3.63E+01,PU,4
+Pachirisu,1.28E+02,2.41E+01,PU,4
+Buizel,2.01E+02,3.71E+01,PU,4
+Floatzel,1.84E+01,4.87E+01,PU,4
+Cherrim,6.96E+01,2.51E+01,PU,4
+Gastrodon,4.82E+01,-2.07E+01,NU,4
+Ambipom,3.73E+01,2.90E+01,RU,4
+Drifblim,1.78E+01,8.71E+01,PU,4
+Lopunny,4.25E+01,1.59E+01,OU,4
+Mega Lopunny,-8.56E+01,-5.07E+01,PU,4
+Mismagius,1.48E+01,5.65E+01,NU,4
+Honchkrow,1.93E-01,4.29E+01,RU,4
+Purugly,7.23E+01,3.23E+01,PU,4
+Skuntank,4.03E+01,8.60E+00,NU,4
+Bronzong,8.78E+00,-6.25E+01,RU,4
+Chatot,1.13E+02,4.93E+01,PU,4
+Spiritomb,2.86E+01,-5.72E+01,RU,4
+Gabite,1.16E+02,6.36E+00,PU,4
+Garchomp,-1.00E+02,-2.30E+01,OU,4
+Mega Garchomp,-2.12E+02,-3.15E+01,OU,4
+Lucario,-2.43E+01,2.01E+01,Uber,4
+Mega Lucario,-1.40E+02,2.75E+01,UU,4
+Hippowdon,-1.72E+01,-5.69E+01,OU,4
+Drapion,1.27E+01,-1.56E+01,RU,4
+Toxicroak,2.17E+01,1.24E+01,UU,4
+Carnivine,6.54E+01,-1.28E+01,PU,4
+Lumineon,6.01E+01,1.57E+01,PU,4
+Abomasnow,1.60E+01,-1.97E+00,PU,4
+Mega Abomasnow,-1.06E+02,-4.83E+01,NU,4
+Weavile,3.57E+00,5.60E+01,OU,4
+Magnezone,-4.29E+01,1.45E+00,OU,4
+Lickilicky,-7.87E+00,-2.75E+01,PU,4
+Rhyperior,-2.79E+01,-9.07E+01,RU,4
+Tangrowth,-3.60E+01,-5.36E+01,OU,4
+Electivire,-3.95E+01,8.76E+00,NU,4
+Magmortar,-4.10E+01,2.59E+01,NU,4
+Togekiss,-4.61E+01,4.37E+01,UU,4
+Yanmega,-9.16E+00,3.39E+01,RU,4
+Leafeon,-2.06E+01,-5.14E+01,PU,4
+Glaceon,-2.92E+01,3.71E+01,PU,4
+Gliscor,-3.19E-01,-5.05E+01,OU,4
+Mamoswine,-2.76E+01,-3.42E+01,UU,4
+Porygon-Z,-3.59E+01,4.33E+01,UU,4
+Gallade,-1.63E+01,-2.45E+01,NU,4
+Mega Gallade,-1.28E+02,-5.39E+01,RU,4
+Probopass,-2.34E+01,9.82E+01,PU,4
+Dusknoir,-3.04E+01,6.85E+01,PU,4
+Froslass,3.59E+01,3.20E+01,UU,4
+Rotom,8.26E+01,3.86E+01,OU,4
+Heat Rotom,-1.89E+01,2.64E+01,UU,4
+Wash Rotom,-1.89E+01,2.64E+01,RU,4
+Frost Rotom,-1.89E+01,2.64E+01,NU,4
+Fan Rotom,-1.89E+01,2.64E+01,PU,4
+Mow Rotom,-1.89E+01,2.64E+01,PU,4
+Uxie,-7.98E+01,-4.72E+01,RU,4
+Mesprit,-7.73E+01,-9.51E+00,NU,4
+Azelf,-8.61E+01,3.66E+01,OU,4
+Dialga,-1.90E+02,4.62E+00,Uber,4
+Palkia,-1.89E+02,1.98E+01,Uber,4
+Heatran,-1.04E+02,3.01E+00,OU,4
+Regigigas,-1.76E+02,-4.60E+01,PU,4
+Giratina Altered Forme,-1.89E+02,-3.68E+01,Uber,4
+Giratina Origin Forme,-1.92E+02,-9.25E+00,Uber,4
+Cresselia,-1.01E+02,-5.17E+01,UU,4
+Phione,3.43E+01,5.96E+00,PU,4
+Manaphy,-9.77E+01,-2.04E+00,OU,4
+Darkrai,-1.05E+02,4.33E+01,Uber,4
+Shaymin Land Forme,-9.77E+01,-2.04E+00,RU,4
+Shaymin Sky Forme,-1.04E+02,3.84E+01,Uber,4
+Arceus,-2.29E+02,-9.63E+00,Uber,4
+Victini,-9.77E+01,-1.97E+00,OU,5
+Servine,1.11E+02,1.25E+01,PU,5
+Serperior,-2.04E+01,1.73E+01,OU,5
+Emboar,-3.04E+01,-1.37E+01,RU,5
+Samurott,-2.41E+01,1.61E-01,NU,5
+Watchog,1.02E+02,5.09E+00,PU,5
+Stoutland,1.28E+01,-2.83E+01,PU,5
+Liepard,7.58E+01,4.57E+01,NU,5
+Simisage,1.19E+01,3.01E+01,PU,5
+Simisear,1.19E+01,3.01E+01,PU,5
+Simipour,1.19E+01,3.01E+01,PU,5
+Musharna,3.28E+01,-6.56E+01,PU,5
+Unfezant,2.78E+01,-5.57E+00,PU,5
+Zebstrika,1.61E+01,3.55E+01,PU,5
+Gigalith,-6.82E+00,-8.50E+01,PU,5
+Swoobat,9.93E+01,5.07E+01,PU,5
+Excadrill,-3.51E+00,-5.29E+01,OU,5
+Audino,8.34E+01,-2.06E+01,NU,5
+Mega Audino,-4.27E+01,-6.49E+01,PU,5
+Gurdurr,1.23E+02,-4.42E+01,NU,5
+Conkeldurr,2.77E+00,-6.92E+01,UU,5
+Seismitoad,6.02E-01,-4.99E-01,RU,5
+Throh,6.44E+01,-6.26E+01,PU,5
+Sawk,6.30E+01,-4.19E+01,RU,5
+Leavanny,1.17E+01,6.60E-01,PU,5
+Scolipede,3.55E+01,9.70E+00,OU,5
+Whimsicott,3.80E+01,3.97E+01,UU,5
+Lilligant,3.27E+01,4.05E+01,NU,5
+Basculin,5.93E+01,2.43E+01,PU,5
+Krokorok,1.79E+02,1.31E+01,PU,5
+Krookodile,-1.02E+01,-1.35E+01,UU,5
+Darmanitan Standard Mode,5.13E+01,-7.66E+01,UU,5
+Maractus,5.67E+01,1.16E+01,PU,5
+Crustle,2.99E+01,-5.66E+01,PU,5
+Scrafty,3.08E+01,-5.98E+01,RU,5
+Sigilyph,2.19E+01,3.77E+01,RU,5
+Cofagrigus,3.66E+01,-9.28E+01,RU,5
+Carracosta,1.48E+01,-7.17E+01,PU,5
+Archeops,-7.41E+01,3.40E+01,NU,5
+Garbodor,4.33E+01,-9.19E+00,NU,5
+Zoroark,-6.31E+00,5.19E+01,RU,5
+Cinccino,5.19E+01,3.57E+01,RU,5
+Gothitelle,1.98E+01,1.48E+01,PU,5
+Duosion,1.64E+02,5.81E+01,PU,5
+Reuniclus,2.33E+01,-6.39E+01,UU,5
+Swanna,4.32E+01,2.73E+01,PU,5
+Vanilluxe,-3.19E+01,9.23E+00,PU,5
+Sawsbuck,4.48E+01,6.86E+00,PU,5
+Emolga,9.46E+01,3.41E+01,PU,5
+Escavalier,1.62E+01,5.93E+01,RU,5
+Amoonguss,6.20E+01,-3.52E+01,OU,5
+Jellicent,3.94E+01,1.22E+01,RU,5
+Alomomola,6.50E+01,9.76E+01,RU,5
+Galvantula,4.37E+01,4.41E+01,UU,5
+Ferroseed,2.29E+02,-5.27E+01,NU,5
+Ferrothorn,2.75E+01,-8.77E+01,OU,5
+Klang,8.12E+01,-2.25E+01,PU,5
+Klinklang,-1.31E+01,-2.45E+01,NU,5
+Eelektross,-1.27E+01,-1.54E+01,RU,5
+Beheeyem,2.27E+01,4.49E+01,PU,5
+Chandelure,-2.15E+01,6.54E+01,UU,5
+Fraxure,1.21E+02,-2.40E+01,PU,5
+Haxorus,-4.03E+01,-4.42E+01,UU,5
+Beartic,1.68E+00,-4.00E+01,PU,5
+Cryogonal,-7.48E+00,7.82E+01,PU,5
+Accelgor,1.95E+01,8.67E+01,RU,5
+Stunfisk,5.50E+01,-4.14E+01,PU,5
+Mienshao,-3.80E+00,3.74E+01,UU,5
+Druddigon,3.03E+01,-4.02E+01,RU,5
+Golurk,3.45E+01,-3.71E+01,NU,5
+Pawniard,1.90E+02,-1.34E+01,PU,5
+Bisharp,2.34E+01,-3.78E+01,OU,5
+Bouffalant,2.74E+01,-4.97E+01,PU,5
+Braviary,-1.39E+00,-2.49E+01,RU,5
+Vullaby,1.58E+02,-5.09E+00,PU,5
+Mandibuzz,-8.74E-01,-3.23E+01,UU,5
+Heatmor,2.63E+01,1.29E+01,PU,5
+Durant,4.31E+01,-5.46E+01,BL2,5
+Zweilous,1.01E+02,-4.97E+00,PU,5
+Hydreigon,-1.01E+02,1.45E+01,UU,5
+Volcarona,-5.02E+01,5.93E+01,OU,5
+Cobalion,-7.96E+01,-2.52E+01,UU,5
+Terrakion,-7.90E+01,-2.08E+01,UU,5
+Virizion,-8.16E+01,1.94E+01,RU,5
+Tornadus Incarnate Forme,-8.33E+01,3.12E+01,OU,5
+Tornadus Therian Forme,-7.98E+01,2.60E+01,UU,5
+Thundurus Incarnate Forme,-8.33E+01,3.12E+01,OU,5
+Thundurus Therian Forme,-8.53E+01,4.30E+01,OU,5
+Reshiram,-1.90E+02,1.54E+01,Uber,5
+Zekrom,-1.87E+02,-2.53E+01,Uber,5
+Landorus Incarnate Forme,-1.03E+02,6.69E+00,Uber,5
+Landorus Therian Forme,-1.05E+02,-1.37E+01,OU,5
+Kyurem,-1.69E+02,5.42E+00,Uber,5
+Black Kyurem,-2.15E+02,-2.46E+01,OU,5
+White Kyurem,-2.14E+02,3.70E+01,Uber,5
+Keldeo Ordinary Forme,-8.03E+01,3.80E+01,OU,5
+Meloetta Aria Forme,-1.07E+02,3.32E+01,RU,5
+Meloetta Pirouette Forme,-1.06E+02,-1.73E+01,RU,5
+Genesect,-1.03E+02,8.21E+00,Uber,5
+Quilladin,1.20E+02,-1.90E+01,PU,6
+Chesnaught,-2.28E+01,-4.04E+01,UU,6
+Delphox,-3.08E+01,4.08E+01,RU,6
+Greninja,-2.55E+01,4.23E+01,Uber,6
+Diggersby,1.05E+02,6.54E+00,OU,6
+Fletchinder,1.45E+02,1.87E+01,RU,6
+Talonflame,1.60E+01,4.35E+01,OU,6
+Vivillon,1.13E+02,4.69E+01,NU,6
+Pyroar,2.63E+00,4.36E+01,NU,6
+Florges,-5.40E+01,6.84E+01,UU,6
+Gogoat,-3.13E+01,-1.27E+00,PU,6
+Pangoro,1.55E+01,-2.94E+01,NU,6
+Furfrou,4.83E+01,2.55E+01,PU,6
+Meowstic Male,5.47E+01,4.18E+01,PU,6
+Meowstic Female,5.47E+01,4.18E+01,PU,6
+Doublade,7.70E+01,-9.30E+01,UU,6
+Aegislash Shield Forme,-5.82E+00,-1.12E+02,Uber,6
+Aromatisse,6.51E+01,-2.75E+01,RU,6
+Slurpuff,3.38E+01,1.44E+00,RU,6
+Malamar,3.32E+01,-8.64E+00,NU,6
+Barbaracle,1.20E+01,-4.15E+01,NU,6
+Dragalge,1.37E+01,-2.37E+01,RU,6
+Clawitzer,3.26E+00,1.62E+01,RU,6
+Heliolisk,3.18E+01,6.40E+01,UU,6
+Tyrantrum,-1.49E+01,-4.64E+01,RU,6
+Aurorus,-1.87E+01,3.49E+00,NU,6
+Sylveon,-2.46E+01,5.30E+01,UU,6
+Hawlucha,1.42E+01,3.13E+01,OU,6
+Dedenne,9.11E+01,3.97E+01,PU,6
+Carbink,1.52E+01,1.12E+02,PU,6
+Goodra,-1.12E+02,2.13E+01,UU,6
+Klefki,4.68E+01,-1.33E+00,UU,6
+Trevenant,4.31E+01,-2.11E+01,PU,6
+Gourgeist Average Size,2.07E+01,-3.60E+01,PU,6
+Gourgeist Small Size,2.22E+01,-3.62E+01,PU,6
+Gourgeist Large Size,2.00E+01,-4.16E+01,PU,6
+Gourgeist Super Size,1.95E+01,-5.05E+01,PU,6
+Avalugg,-1.35E-02,-1.30E+02,PU,6
+Noivern,-2.91E+01,4.30E+01,RU,6
+Xerneas,-1.89E+02,1.67E+00,Uber,6
+Yveltal,-1.89E+02,1.67E+00,Uber,6
+Zygarde 10% Forme,3.04E+01,3.18E+01,RU,6
+Diancie,-1.07E+02,-8.29E+01,OU,6
+Mega Diancie,-2.24E+02,1.86E+01,RU,6
+Hoopa Hoopa Confined,-1.15E+02,4.86E+01,Uber,6
+Hoopa Hoopa Unbound,-2.03E+02,5.42E+01,RU,6
+Volcanion,-1.06E+02,-1.56E+01,OU,6
+Decidueye,-2.63E+01,-3.42E-01,NU,7
+Incineroar,-2.34E+01,-2.45E+01,RU,7
+Primarina,-3.38E+01,3.42E+01,UU,7
+Toucannon,2.81E+01,-1.82E+01,PU,7
+Gumshoos,1.10E+02,-2.32E+01,PU,7
+Vikavolt,8.27E-01,6.59E+01,NU,7
+Crabominable,4.23E+01,-5.03E+01,PU,7
+Oricorio Baile Style,3.86E+01,3.16E+01,PU,7
+Oricorio Pom-Pom Style,3.86E+01,3.16E+01,PU,7
+Oricorio Pa'u Style,3.86E+01,3.16E+01,PU,7
+Oricorio Sensu Style,3.86E+01,3.16E+01,PU,7
+Ribombee,5.52E+01,6.29E+01,PU,7
+Lycanroc Midday Form,3.12E+01,2.72E+01,PU,7
+Lycanroc Midnight Form,2.92E+01,-1.36E+01,PU,7
+Lycanroc Dusk Form,3.12E+01,2.47E+01,UU,7
+Wishiwashi School Form,-1.38E+02,-8.14E+01,PU,7
+Toxapex,2.38E+01,-1.13E+02,OU,7
+Mudsdale,1.01E+01,-6.47E+01,NU,7
+Araquanid,7.61E+01,-5.89E+01,NU,7
+Lurantis,3.45E+01,-2.78E+01,PU,7
+Shiinotic,1.29E+02,-2.92E+01,PU,7
+Salazzle,3.42E+01,6.20E+01,NU,7
+Bewear,9.06E+00,-5.70E+01,NU,7
+Tsareena,-1.37E+00,-4.05E+01,PU,7
+Comfey,3.08E+01,5.06E+01,NU,7
+Oranguru,2.22E+01,6.46E+00,PU,7
+Passimian,3.01E+01,-4.58E+01,PU,7
+Golisopod,-2.26E+01,-7.76E+01,RU,7
+Palossand,3.90E+01,-4.30E+01,PU,7
+Pyukumuku,1.23E+02,-1.02E+02,PU,7
+Silvally,-6.51E+01,8.72E-02,PU,7
+Minior Meteor Form,8.71E+01,-2.44E+01,NU,7
+Komala,3.53E+01,-1.13E+01,PU,7
+Turtonator,2.97E+01,-6.94E+01,PU,7
+Togedemaru,9.35E+01,9.95E+00,PU,7
+Mimikyu,4.86E+01,-2.29E+00,RU,7
+Bruxish,4.26E+01,7.71E+00,RU,7
+Drampa,3.49E+01,-5.51E+01,PU,7
+Dhelmise,-1.40E+01,-4.92E+01,NU,7
+Kommo-o,-9.94E+01,-2.64E+01,UU,7
+Tapu Koko,-7.23E+01,2.34E+01,UU,7
+Tapu Lele,-7.13E+01,3.80E+01,OU,7
+Tapu Bulu,-6.73E+01,-3.56E+01,UU,7
+Tapu Fini,-7.16E+01,-2.12E+01,OU,7
+Solgaleo,-1.89E+02,-1.93E+01,Uber,7
+Lunala,-1.90E+02,2.28E+01,Uber,7
+Nihilego,-6.95E+01,8.45E+01,UU,7
+Buzzwole,-6.55E+01,-8.14E+01,UU,7
+Pheromosa,-8.08E+01,1.08E+02,Uber,7
+Xurkitree,-7.95E+01,7.25E+01,RU,7
+Celesteela,-6.73E+01,-1.64E+01,UU,7
+Kartana,-7.30E+01,-1.12E+02,OU,7
+Guzzlord,-6.96E+01,1.54E+02,NU,7
+Necrozma,-1.03E+02,5.84E-01,RU,7
+Dusk Mane Necrozma,-1.88E+02,-4.10E+01,Uber,7
+Dawn Wings Necrozma,-1.93E+02,1.61E+01,Uber,7
+Ultra Necrozma,-2.74E+02,2.04E+01,Uber,7
+Magearna,-1.08E+02,-1.11E+01,Uber,7
+Marshadow,-1.04E+02,1.16E+01,Uber,7
+Naganadel,-3.94E+01,5.64E+01,Uber,7
+Stakataka,-6.25E+01,-1.53E+02,RU,7
+Blacephalon,-8.17E+01,6.95E+01,UU,7
+Zeraora,-1.05E+02,4.19E+01,OU,7
+Melmetal,-1.01E+02,-9.60E+01,OU,7
